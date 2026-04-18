@@ -1,5 +1,3 @@
-# econ-lab-20-time-series
-
 # Time Series Diagnostics & Advanced Decomposition
 
 ## Objective
